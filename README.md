@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi GitHub Friend 👋
+
+
+### I'm JW Zhang
+
+- 💪 Open Source enthusiast, Interested in the go and rust technology stacks.
+- 🌱 Currently working in ShenZhen, China.
+- 💬 Ask me about Python and my projects on [jw.mail001@gmail.com](mailto:jw.mail001@gmail.com)
+- ⚡ Fun fact: Data Analysis📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JW-Zhang001&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
