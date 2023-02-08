@@ -3,7 +3,7 @@
 
 ### I'm JW Zhang
 
-- 💪 Open Source enthusiast, Interested in the go and rust technology stacks.
+- 💪 Interested and learning about go and rust
 - 🌱 Currently working in ShenZhen, China.
 - 💬 Ask me about Python and my projects on [jw.mail001@gmail.com](mailto:jw.mail001@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
